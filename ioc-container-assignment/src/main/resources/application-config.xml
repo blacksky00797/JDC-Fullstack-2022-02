@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean name="dataSource" class="com.mysql.cj.jdbc.MysqlDataSource">
+		<property name="url" value="jdbc:mysql://localhost:3306/assignment_one"></property>
+		<property name="user" value="blacksky"></property>
+		<property name="password" value="admin123admin"></property>
+	</bean>
+	
+	<bean name="courseModel" class="com.jdc.assignment.model.impl.CourseModelImpl">
+		<constructor-arg ref="dataSource"></constructor-arg>
+	</bean>
+	
+	<bean name="openClassModel" class="com.jdc.assignment.model.impl.OpenClassModelImpl">
+		<constructor-arg ref="dataSource"></constructor-arg>
+	</bean>
+
+</beans>
