@@ -8,5 +8,6 @@ public interface OpenClassModel {
 	
 	public List<OpenClass> findOpenClassesByCourseId(int courseId);
 	public void create(OpenClass openClass);
+	public OpenClass getOpenClassByClassId(int classId);
 
 }

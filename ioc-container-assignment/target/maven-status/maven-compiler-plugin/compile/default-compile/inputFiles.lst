@@ -4,10 +4,12 @@ C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\ja
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\controller\CourseServlet.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\controller\OpenClassServlet.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\domain\OpenClass.java
+C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\model\impl\RegistrationModelImpl.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\model\impl\CourseModelImpl.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\model\OpenClassModel.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\controller\RegistrationServlet.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\controller\AbstractBeanFactoryServlet.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\model\impl\OpenClassModelImpl.java
+C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\model\RegistrationModel.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\model\CourseModel.java
 C:\Users\Blacksky\git\JDC-Fullstack-2022-02\ioc-container-assignment\src\main\java\com\jdc\assignment\listener\SpringContainerManager.java

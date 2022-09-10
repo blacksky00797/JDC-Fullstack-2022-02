@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Java Developer Class</title>
 <!-- CSS only -->
 <link
 	href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
@@ -62,7 +62,7 @@
 								<td>${c.id}</td>
 								<td>${c.name}</td>
 								<td>${c.fees}</td>
-								<td>${c.duration}</td>
+								<td>${c.duration} Months</td>
 								<td>${c.description}</td>
 								<td align="center">
 									<c:url var="classes" value="/classes">
